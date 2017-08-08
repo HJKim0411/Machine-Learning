@@ -6,10 +6,10 @@
 
 ### 입력 영상 예시
 - 영상 크기 : 29x29
-- 원본 컬러(RGB) 영상
-@import "./Input_images.jpg"
+- 원본 컬러(RGB) 영상  
+@import "./Input_images.jpg"  
 ![Input_images](http://i.imgur.com/jyTKH7G.jpg)
 
-- 하나의 데이터에 대한 입력 영상(위의 데이터를 R, G, B 채널로 각각 나눔)
+- 하나의 데이터에 대한 입력 영상(위의 데이터를 R, G, B 채널로 각각 나눔)  
 @import "./Input_images2.jpg"
 ![Input_images2](http://i.imgur.com/vhpZO8N.jpg)
