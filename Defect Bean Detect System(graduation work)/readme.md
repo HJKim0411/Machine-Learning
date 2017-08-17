@@ -16,7 +16,7 @@ Variable name : OpenCV, Value : opencv installation path\opencv\build
 - The defect about Insect Damage  
 ![Insect_damage](http://i.imgur.com/Gv38MLn.jpg)  
 It can be seen that a dark hole was drilled in the part where the defect about Insect damage.  
-(Photo source : <http://www.coffeeresearch.org/coffee/defects.htm>)  
+(Image source : <http://www.coffeeresearch.org/coffee/defects.htm>)  
 
 ### Examples of Input image
 - Original image  
