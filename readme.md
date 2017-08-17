@@ -8,3 +8,6 @@ About Machine Learning Repository
 ### QFN Solder Defect Detection using Convolutioanl Neural Networks with Color Input Images
 - It is an experimental project when I was in graduate school.
 - Inspect QFN parts for defects via Convolutional Neural Network with Color Input Images.
+
+### Coursera Machine Learning Class
+- These projects are the tasks of Andrew Ng's Machine Learning class at Coursera
