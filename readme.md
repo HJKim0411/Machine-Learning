@@ -11,3 +11,7 @@ About Machine Learning Repository
 
 ### Coursera Machine Learning Class
 - These projects are the tasks of Andrew Ng's Machine Learning class at Coursera
+
+### Three-layer Neural Network vs Convolutional Neural Network
+- This project was made for comparison between 3NN and CNN.
+- Numerical(0~9) and character(A~Z) data were used for performance testing.
