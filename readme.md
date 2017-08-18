@@ -14,4 +14,4 @@ About Machine Learning Repository
 
 ### Three-layer Neural Network vs Convolutional Neural Network
 - This project was made for comparison between 3NN and CNN.
-- Numerical(0~9) and character(A~Z) data were used for performance testing.
+- Numerical(0\~9) and character(A\~Z) data were used for performance testing.
